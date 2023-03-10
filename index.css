@@ -1,0 +1,14 @@
+#menu{
+    font-size: large;
+    height: fit-content;
+    background-color: red;
+}
+#banner{
+    font-size: medium;
+    height: fit-content;
+    background-color: red;
+}
+#footer{
+    font-size: medium;
+    background-image: url(dia-danh/Tokyo.jpg);
+}
